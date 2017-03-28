@@ -1,0 +1,17 @@
+D:\flashSDK\flex_sdk_4.6_air3.6_fp11.6\flex_sdk_4.6_air3.6_fp11.6\bin\adt.bat
+-package
+-target
+apk-debug
+-listen
+7935
+-storetype
+pkcs12
+-keystore
+111111.p12
+-storepass
+5+nGvLBHk8A=
+D:/workpaces/tool/ActionEditorTool/bin
+bin/ActionEditorTool-app.xml
+-C
+bin
+ActionEditorTool.swf
